@@ -1,0 +1,12 @@
+pandas 
+pandas_datareader
+matplotlib
+seaborn  
+numpy 
+pandas 
+statsmodels
+plotly 
+streamlit 
+pandas 
+statsmodels
+plotly
